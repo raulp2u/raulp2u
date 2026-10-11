@@ -1,5 +1,3 @@
-
-
 ### `[ϟ] whoami`
 
 ```bash
@@ -8,12 +6,14 @@ root@void:~$ cat /etc/dev
  name      :: Raul
  class     :: Engineer
  location  :: somewhere between 0 and 1
- voltage   :: over
- status    :: ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 85% online
+ voltage   :: always high
+ status    :: [#################---] 85% online
  mission   :: bend electrons
 ──────────────────────────────────────────────
 ```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=136212&background=1C362500&width=435&lines=Initializing;Creating+threads;Comm+check;Pre+charge;Run)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&width=435&lines=Initializing...;Creating+threads...;Comm+check...;Pre+charge...;Run.)](https://git.io/typing-svg)
+
 ### `[ϟ] dmesg | tail`
 
 ```diff
@@ -41,17 +41,13 @@ root@void:~$ cat /etc/dev
 
 </div>
 
+---
 
-```
-░▒▓█▓▒░░▒▓█▓▒░  ϟ  ░▒▓█▓▒░░▒▓█▓▒░  ϟ  ░▒▓█▓▒░░▒▓█▓▒░  ϟ  ░▒▓█▓▒░░▒▓█▓▒░
-  ∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿
-░▒▓█▓▒░░▒▓█▓▒░  ϟ  ░▒▓█▓▒░░▒▓█▓▒░  ϟ  ░▒▓█▓▒░░▒▓█▓▒░  ϟ  ░▒▓█▓▒░░▒▓█▓▒░
-```
 
 <div align="center">
 
 `> connection closed by remote host_`
 
-![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=ff00ff&label=INTRUDERS+DETECTED)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=black&right_color=red&left_text=INTRUDERS%20DETECTED)
 
 </div>
