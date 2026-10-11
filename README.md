@@ -6,7 +6,7 @@ root@void:~$ cat /etc/dev
  name      :: Raul
  class     :: Engineer
  location  :: somewhere between 0 and 1
- voltage   :: always high
+ voltage   :: over V
  status    :: [#################---] 85% online
  mission   :: bend electrons
 ──────────────────────────────────────────────
