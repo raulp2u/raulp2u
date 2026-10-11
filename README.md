@@ -11,9 +11,7 @@ root@void:~$ cat /etc/dev
  mission   :: bend electrons
 ──────────────────────────────────────────────
 ```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&width=435&lines=Initializing...;Creating+threads...;Comm+check...;Pre+charge...;Run.)](https://git.io/typing-svg)
-
 ### `[ϟ] dmesg | tail`
 
 ```diff
