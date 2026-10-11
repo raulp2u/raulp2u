@@ -6,10 +6,15 @@ root@void:~$ cat /etc/dev
  name      :: Raul
  class     :: Engineer
  location  :: somewhere between 0 and 1
- voltage   :: over V
- status    :: [#################---] 85% online
+ voltage   :: 13,8 kV
+ status    :: "[#################---]" 85% online
  mission   :: bend electrons
 ──────────────────────────────────────────────
+$ whoami
+> Firmware & Control Systems Engineer
+$ focus
+> Real-time motor control (FOC / DTC / Sensorless), power inverters & DSP
+
 ```
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9F&width=435&lines=Initializing...;Creating+threads...;Comm+check...;Pre+charge...;Run.)](https://git.io/typing-svg)
 ### `[ϟ] dmesg | tail`
